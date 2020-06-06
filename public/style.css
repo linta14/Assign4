@@ -1,0 +1,449 @@
+img{
+    width: 300px;
+  
+}
+.img1{
+    width: 500px;
+    height: 400px;
+}
+.nav-link{
+    font-weight: bold !important;
+}
+.fa-search,.fa-shopping-basket{
+    font-size: 30px !important;
+    margin-right: 5px !important;
+}
+.fa-home, .fa-envelope ,.fa-phone{
+    font-size: 30px !important;
+    margin-right: 5px !important;
+    color: white !important;
+}
+.fa-phone-square,.fa-telegram{
+    font-size: 20px !important;
+    margin-right: 5px !important;
+}
+.btn{
+    border-radius: 40px !important;
+    background-color: #FF8C00 !important;
+    border-color:#FF8C00 !important ;
+}
+.breadcrumb-item{
+    color: grey !important;
+}
+.breadcrumb{
+    background-color: white !important;
+}
+.border{
+    border-bottom: 1px 1px 1px thin  !important;
+    border-color: gray !important;
+}
+.list-inline{
+    margin-left:30%;
+}
+.list-inline-item{
+justify-content: space-around !important;
+margin-left: 20px !important;
+}
+.jumbotron{
+    background-color: white !important;
+    justify-content: left !important;
+}
+h1,h6{
+    text-align: center;
+}
+.img-fluid{
+    width: 100%;
+}
+.img2{
+    width:60px ;
+    margin-left: 35%;
+    padding-top: 10%;
+}
+
+h4{
+    margin-left: 30%;
+    padding-top: 10%;
+    color: orange;
+}
+.h4{
+    margin-left: 40%;
+    padding-top: 10%;
+}
+
+.d1,.d2,.d3,.d4{
+   
+    background-color: white;
+    width: 270px;
+    height: 175px;
+    box-shadow: 2px 2px 5px  grey;
+     margin-bottom: 40px;
+    border:2px 2px whitesmoke;
+}
+.delivery{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+.main{
+    height: 100%;
+    background-color: rgb(250, 250, 250);
+}
+.cards{
+    width: 100%;
+    height: 800%;
+    background-image: url(https://i.ytimg.com/vi/ihVe2zztaRo/maxresdefault.jpg);
+}
+.img-fluid img-thumbnail{
+    width: 100%;
+    height: 100%;
+}
+.h1{
+    color: white;
+}
+.img-fluid1{
+    width: 90%;
+    height: 40%;
+    margin-left: 5%;
+}
+.list-inline-item1{
+    
+    color: white;
+    font-size: 20px;
+}
+.list-inline1{
+    margin-left: 10% !important;
+}
+.img3{
+    width:60px ;
+    margin-left: 10%;
+    padding-top: 10%;
+}
+.fa-star-o{
+    font-size: 20px !important;
+    margin-left: 5px;
+    color: rgb(224, 224, 16) !important;
+}
+.card1,.card2,.card3,.card4,.card5,.card6{
+    margin-left: 3%;
+    margin-bottom: 10%;
+}
+.main2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card-link:hover{
+    color: tomato !important;
+}
+.card-link{
+    color: black !important;
+    font-size: 30px !important;
+}
+.card-body{
+    height:200px !important;
+}
+.img4{
+   
+    width: 40% !important;
+}
+.meat{
+    width:100% ;
+    height: 410px;
+}
+.main3{
+    width: 100%;
+    background-image: url(https://i.ytimg.com/vi/ihVe2zztaRo/maxresdefault.jpg);
+    display: inline-block;
+}
+.dis{
+    display: inline-block;
+    margin-left: 5%;
+    
+}
+.h3{
+    color: tomato ;
+}
+.btn-primary1{
+    background-color:tomato!important ;
+    border-color:tomato !important ;
+}
+.h1{
+    color: white;
+}
+.main4{
+    width: 37%;
+    height: 305px;
+   
+    background-image: url(https://st3.depositphotos.com/13324256/19274/i/450/depositphotos_192741286-stock-photo-closeup-view-wooden-cutting-board.jpg);
+}
+.img5{
+    width: 20%;
+}
+.add{
+    padding: 30px 20px 30px 20px;
+    margin-left: 20%;
+    width: 100%;
+    height: 305px;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+h6{
+    color: white;
+}
+.send{
+    height: 305px;
+    width: 63%;
+    background-color:rgb(7, 7, 7);
+}
+.request{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.form-group{
+    margin-left: 25% !important;
+    max-width: 300px !important;
+}
+h2{
+    margin-left: 25%;
+    color: snow;
+}
+.btn-primary2{
+    margin-left: 25% !important;
+}
+.img6{
+    width: 25%;
+    margin-left: 32%;
+}
+.pic{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top:13% ;
+}
+
+.pic1,.pic2,.pic3,.pic4{
+    margin-top: 10px;
+    width: 250px;
+    height: 100px;
+    border-style: dashed;
+    border-color:  rgb(201, 201, 201);
+}
+.img7{
+    width:70px ;
+    margin-left: 35%;
+    padding-top: 7%;
+}
+.img7,.img3:hover{
+    cursor: pointer;
+}
+.footer{
+    margin-top: 2%;
+    width: 100%;
+    height: 375px;
+    background-color: rgb(27, 27, 27);
+    
+    
+}
+.t1{
+    
+    padding-top: 4%;
+    background-color: rgb(27, 27, 27);
+    width: 550px !important;
+    height:300px !important;
+    
+}
+
+
+.h6{
+    padding-top: 10%;
+    text-align: left;
+    color: grey;
+}
+.head
+{
+    text-align: left;
+    color: grey;
+}
+.sticky-top{
+    background-color: white !important;
+    border-bottom: 1px thin white !important;
+    box-shadow: 2px 2px 5px grey !important;
+}
+.form-control2{
+    max-width: 500px !important;
+    margin-left: 5px !important;
+
+}
+.h6o{
+    padding-top: 10%;
+    text-align: center;
+    color: grey;
+}
+.p2{
+    
+    text-align: center;
+    color: grey;
+    
+}
+.p{
+    text-align:left;
+    color: grey;
+    
+}
+.foot{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgb(15, 15, 15); 
+}
+.foot1{
+    width:550px;
+    height: 80px;
+    background-color: rgb(15, 15, 15);
+}
+
+.P1{
+    margin-left: 10px;
+    padding-top: 20PX;
+    text-align:left;
+    color: grey;
+}
+.btn-primary3{
+    border: 1px thin rgb(27, 27, 27) !important;
+    border-radius: 20px !important;
+    background-color: rgb(27, 27, 27) !important;
+    border-color: rgb(27, 27, 27) !important;
+    margin-top: 20px !important;
+    
+}
+.btn1:hover{
+    background-color: rgb(62, 62, 230) !important;
+}
+.btn2:hover{
+    background-color: rgb(236, 60, 29) !important;
+}
+
+
+
+
+
+.Amain{
+width: 100%;
+height:  300px;
+background-image: url(https://i.ytimg.com/vi/ihVe2zztaRo/maxresdefault.jpg);
+}
+.ah1 {
+    text-align: center;
+    color: white;
+    padding-top: 2%;
+}
+.ah6{
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+}
+.fa-angle-double-right{
+    color: tomato !important;
+    font-size: 20px !important;
+    
+}
+.aimg{
+    margin-top:10px ;
+    width: 325px !important;
+    height: 204px !important;
+    margin-left: 76% !important;
+}
+.link{
+    color: white;
+}
+.link:hover{
+    color: white;
+}
+.aimg1{
+    height: 325px;
+    margin-top: 12%;
+    width: 600px;
+}
+.aah1{
+text-align: left;
+}
+.aend{
+    width: 100%;
+    height: 400px;
+    
+}
+.fa-star{
+    font-size: 20px !important;
+    margin-left: 67% !important;
+}
+.ah4{
+    margin-left: 60%;
+    padding-top: 10px;
+    color: black !important;
+}
+
+
+
+
+
+.Amain2{
+    width: 100%;
+    height:  300px;
+    background-color: grey;
+    }
+    .con1{
+        width: 100%;
+        height: 600px;
+    }
+    .ch1{
+        text-align: center;
+        padding-top: 10%;
+    }
+    .cp{
+        text-align: center;
+        padding-top: 3%;
+    }
+    
+
+
+
+
+
+    .product
+    {
+        width: 100%;
+        height: 600px;
+    }
+     .mar{
+      margin-right: 30px !important;
+     }
+     .prop{
+         width: 100%;
+         height: 100px;
+     }
+     .list-inline3{
+        margin-left:5% !important;
+        font-size: 20px !important;
+        font-weight: bold !important;
+     }
+
+.arro{
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    width:50px;
+    background-color:tomato;
+}
